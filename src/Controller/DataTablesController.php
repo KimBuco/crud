@@ -98,9 +98,4 @@ class DataTablesController extends AppController
     
         echo json_encode($json_data);
     }
-
-    public function test() 
-    {
-        
-    }
 }
